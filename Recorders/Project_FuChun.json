@@ -1,5 +1,3 @@
 {
-    "FuChun": [{
-        "DateLimit": "2022.6.30"
-    }]
+    "FuChunDateLimit": "2022.6.30"
 }
